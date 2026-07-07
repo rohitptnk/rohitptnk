@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rohit Patnaik</h1>
-<h3 align="center">Physicist & AI Engineer | Building intelligent systems with state-of-the-art transformers and agentic workflows</h3>
+<h3 align="center">Data Analyst and AI Engineering | Building AI Systems that work on data.</h3>
 
 <p align="center">
   <a href="https://rohitptnk.github.io/portfolio/" target="_blank">
@@ -16,9 +16,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently a Master's student in **Physics with a Minor in Data Science** at **IISER Bhopal** (2021–2026).
+- 💼 I’m currently a Data Analyst at Finnable.
+- 🔭 Master's in **Physics with a Minor in Data Science** at **IISER Bhopal** (2021–2026).
 - 💼 Previously worked as an **AI Engineer Intern at ThinkDataX** and **AI/ML Intern at Vaanee AI**.
-- 🧠 I'm passionate about building intelligent systems using **Transformers, RAG, and Agentic AI (MCP)**.
+- 🧠 I'm passionate about building intelligent systems using **Transformers, RAG, and Agentic AI**.
 - 📫 How to reach me: **rohitptnk03@gmail.com**
 
 ### 🛠️ Tech Stack & Skills
