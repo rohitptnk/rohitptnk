@@ -17,9 +17,8 @@
 
 ### 👨‍💻 About Me
 - 💼 I’m currently a Data Analyst at Finnable.
-- 🔭 Master's in **Physics with a Minor in Data Science** at **IISER Bhopal** (2021–2026).
+- 🔭 Master's in **Physics** from **IISER Bhopal** (2021–2026).
 - 💼 Previously worked as an **AI Engineer Intern at ThinkDataX** and **AI/ML Intern at Vaanee AI**.
-- 🧠 I'm passionate about building intelligent systems using **Transformers, RAG, and Agentic AI**.
 - 📫 How to reach me: **rohitptnk03@gmail.com**
 
 ### 🛠️ Tech Stack & Skills
@@ -56,14 +55,3 @@
 - **[Kyojin AI](https://github.com/rohitptnk/kyojin-ai)**: RAG-based research assistant for document Q&A.
 - **[Voice-to-Voice Pipeline](https://github.com/rohitptnk/v2v-translate)**: Speech translation using Whisper and Bark TTS.
 - **[BERT Fine-Tuning](https://github.com/rohitptnk/llm-finetuning-and-quantization)**: Emotion classification with QLoRA optimization.
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitptnk&show_icons=true&theme=radical" alt="Rohit's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitptnk&theme=radical" alt="Rohit's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitptnk&layout=compact&theme=radical" alt="Top Languages" />
-</p>
